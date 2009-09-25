@@ -1,0 +1,17 @@
+# xcode noise
+*.swp
+*~.nib
+build/
+build/*
+*.mode1v3
+*.pbxuser
+*.perspective
+*.perspectivev3
+*.mode2v3
+
+# SVN directories
+.svn
+
+# osx noise
+.DS_Store
+profile
